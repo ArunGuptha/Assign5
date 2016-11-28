@@ -1,0 +1,48 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 2,
+      "passed" : 2,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "460aadb78b1e89d5",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 2,
+        "passed" : 2,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "8d6015d8ed3e4dfb",
+        "name" : "check",
+        "title" : "Check",
+        "time" : {
+          "start" : 1480353656357,
+          "stop" : 1480353666274,
+          "duration" : 9917
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "55d01db3cfc3cce3",
+        "name" : "check",
+        "title" : "Check",
+        "time" : {
+          "start" : 1480354188479,
+          "stop" : 1480354200350,
+          "duration" : 11871
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

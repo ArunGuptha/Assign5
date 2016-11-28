@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13518" started-at="2016-11-28T17:49:36Z" finished-at="2016-11-28T17:49:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13518" started-at="2016-11-28T17:49:36Z" finished-at="2016-11-28T17:49:49Z">
+      <class name="com.automation.Amazon.MavenAmazon.verify">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.automation.Amazon.MavenAmazon.verify@25a73de1]" name="check" duration-ms="13197" started-at="2016-11-28T12:49:36Z" finished-at="2016-11-28T12:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.automation.Amazon.MavenAmazon.verify -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
